@@ -1,0 +1,16 @@
+// Work One
+// Script file
+// Constants and variables
+
+name = "Shopping_1"
+numPorts = 4 //
+simDays = 365 // days
+maxStationPower = 30 // max output on all ports for smart charge
+maxPortPower = 11.5 //
+chanceOfPHEV = 0.7
+
+costFile = TestPowerCost.csv
+
+
+// <Avg # of cars> <deviation> <Avg arrival time (Decimal hours)> <devaition (hours)> <duration (hours)> <deviation> <avg time between cars> <deviation>
+portParams 5.58 0.84 10 0.75 11 0.25 0.1 0.1

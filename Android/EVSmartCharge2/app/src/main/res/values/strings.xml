@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">EV Smart Charge</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="slider_location">slider_location</string>
+
+    <string name="pref_car_key">vehicle_type</string>
+    <string name="pref_car_info">Vehicle</string>
+    <string-array name="car_array">
+        <item>C-Max Energi SE</item>
+        <item>Fusion Energi SE</item>
+        <item>Focus Electric</item>
+    </string-array>
+    <!-- Choices for battery capacities -->
+    <string-array name="battery_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="pref_unit_key">unit</string>
+    <string name="pref_unit_info">Units</string>
+    <string-array name="units_array">
+        <item>State of Charge (percent)</item>
+        <item>Distance (mi)</item>
+    </string-array>
+    <!-- Choices for the units -->
+    <string-array name="units_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string name="header">Enter your departure time, desired charge, and port.</string>
+    <string name="p_zero">Port 0</string>
+    <string name="p_one">Port 1</string>
+    <string name="p_two">Port 2</string>
+    <string name="p_three">Port 3</string>
+    <string name="okay">OK</string>
+
+</resources>

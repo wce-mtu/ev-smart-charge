@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1016792369885",
+    "firebase_url": "https://ev-charge-8133f.firebaseio.com",
+    "project_id": "ev-charge-8133f",
+    "storage_bucket": "ev-charge-8133f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016792369885:android:074af3d47f814116",
+        "android_client_info": {
+          "package_name": "com.ford.evsmartcharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016792369885-ch9p556dhk4qd2dhgkateqofadvr7m25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ford.evsmartcharge",
+            "certificate_hash": "bea630fbfef462823015bd07a008230abd0957dc"
+          }
+        },
+        {
+          "client_id": "1016792369885-23uhddpjq7mt1snk20123q3lhkso6nid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXJbEHPg1miPlRxv0gdNpp1AziuSvpbhs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016792369885-23uhddpjq7mt1snk20123q3lhkso6nid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+// Work One
+// Script file
+// Constants and variables
+
+name = "Work_1"
+numPorts = 4 //
+simDays = 1000 // days
+maxStationPower = 30 // kw
+maxPortPower = 11.5 //
+chanceOfPHEV = 0.7
+// seed = 232323
+costFile = ./TestPowerCost.csv
+
+
+// <Avg # of cars> <deviation> <Avg arrival time (Decimal hours)> <devaition (hours)> <duration (hours)> <deviation> <avg time between cars> <deviation>
+portParams 1.75 0.33 8 0.75 9 0.5 0.25 0.167
